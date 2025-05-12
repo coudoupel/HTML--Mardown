@@ -6,7 +6,7 @@ L’objectif de ce projet est de développer un outil simple et automatisé perm
 
 
 
-## 2. 🔧 Choix technologiques
+## 2. Choix technologiques
 
 ### a. Langage : Python
 - **Pourquoi Python ?**
